@@ -1,0 +1,7 @@
+D:\HOC TAP\design Partner c#\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\HOC TAP\design Partner c#\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\HOC TAP\design Partner c#\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\HOC TAP\design Partner c#\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\HOC TAP\design Partner c#\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\HOC TAP\design Partner c#\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\HOC TAP\design Partner c#\Singleton\Singleton\obj\Debug\Singleton.pdb
